@@ -1,0 +1,1 @@
+web: voila --port=$PORT --no-browser --template=material --theme=dark --enable_nbextensions=True notebooks/Building_COVID_19_interactive_dashboard_from_Jupyter_Notebook.ipynb
