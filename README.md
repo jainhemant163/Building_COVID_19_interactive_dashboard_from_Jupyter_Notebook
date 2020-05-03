@@ -24,7 +24,7 @@ cd voila-heroku
 7. Commit everything
 
 ```bash
-git commit -m "My awesome app on Heroku!"
+git commit -m "My application on Heroku Server!"
 ```
 
 8. Create the Heroku app:
